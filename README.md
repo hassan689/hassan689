@@ -50,15 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
-## 💼 Experience
-<details>
-  <summary><b>Zaitech — Developer</b></summary>
-  <br>
-  • Worked on applications for computers, laptops, mobiles & accessories.  
-  • Designed and optimized user interfaces with focus on performance.  
-  • Contributed to both **web and mobile solutions**.  
-</details>
-
+## 💼 Education
 <details>
   <summary><b>Academic Projects — BS Computer Science</b></summary>
   <br>
