@@ -13,13 +13,15 @@
 
 ## 🔹 About Me
 - 🚀 I build applications with a focus on **great user experience**.  
-- 🧰 Technologies I enjoy: **Flutter, React, Dart, Python, C, C++, C#, MSSQL**.  
+- 🧰 Technologies I enjoy: **Flutter, React, Dart, Python, C, C++, C#, MSSQL, PostgreSQL**.  
 - 🎯 Currently working on interactive apps and backend integrations.  
 - 📍 Based in Pakistan • open to internships and leadership opportunities.  
 
 ---
 
 ## 🛠️ Skills
+
+### 🌐 Languages & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
@@ -27,23 +29,27 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### 🗄️ Databases
 ![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
+
+### 🎨 UI/UX & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?logo=adobecreativecloud&logoColor=white)
+
+### 🧩 Problem Solving
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)  
+🔗 [My LeetCode Profile](https://leetcode.com/u/Hassankhan78612/)
+
+### ⚙️ Other
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-- **PetCare Connect (Flutter)** — Appointment booking, telemedicine, and pet health records.  
-  [Repo](https://github.com/your-username/petcare-connect)  
-
-- **University Café App (Flutter)** — Cart, search, authentication, one-click payments.  
-  [Repo](https://github.com/your-username/university-cafe)  
-
-- **Election Voting Management System (React + MSSQL)** — Elections, candidates, results, audit logs.  
-  [Repo](https://github.com/your-username/voting-management)  
-
----
-
 ## 💼 Experience
 <details>
   <summary><b>Zaitech — Developer</b></summary>
@@ -67,6 +73,7 @@
 - 🌐 Portfolio: [hassan-portfolio-ui.netlify.app](https://hassan-portfolio-ui.netlify.app)  
 - 💼 LinkedIn: [linkedin.com/in/hassan-khan-7b9b66283](https://www.linkedin.com/in/hassan-khan-7b9b66283/)  
 - ✉️ Email: [hk.devguy@gmail.com](mailto:hk.devguy@gmail.com)  
+- 🔗 LeetCode: [HassanKhan78612](https://leetcode.com/u/Hassankhan78612/)  
 
 ---
 
