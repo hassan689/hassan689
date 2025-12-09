@@ -185,34 +185,6 @@ const hassanKhan: Developer = {
 
 ---
 
-## 📈 Detailed GitHub Analytics
-
-<div align="center">
-
-<!-- Comprehensive GitHub Stats -->
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-<!-- Advanced Metrics -->
-<details>
-<summary>📊 More GitHub Analytics</summary>
-<br>
-
-<!-- Alternative GitHub Stats Cards -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈%20Detailed%20Stats"/>
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Breakdown"/>
-</div>
-
-</details>
-
-</div>
-
----
-
 ## 🤝 Connect & Collaborate
 
 <div align="center">
