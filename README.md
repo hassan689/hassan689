@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Dynamic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=hassan%khan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=hassan%khan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20Student%20Learner&descAlignY=55&descSize=18"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -72,7 +72,7 @@ const hassanKhan: Developer = {
 
 ### 🎨 Frontend Magic
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap,js,ts,jquery" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript" />
 </div>
 
 </td>
@@ -80,7 +80,7 @@ const hassanKhan: Developer = {
 
 ### ⚡ Backend Power  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,go,rust,php,laravel,spring,dotnet" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi" />
 </div>
 
 </td>
@@ -88,7 +88,7 @@ const hassanKhan: Developer = {
 
 ### 🗄️ Database & Storage
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,cassandra,elasticsearch,firebase,supabase" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase,supabase" />
 </div>
 
 </td>
@@ -103,11 +103,6 @@ const hassanKhan: Developer = {
 
 </td>
 <td valign="top" width="33%">
-
-### 🤖 AI/ML & Data
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,jupyter,r,matlab" />
-</div>
 
 </td>
 <td valign="top" width="33%">
@@ -141,9 +136,6 @@ const hassanKhan: Developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan689&custom_title=📈%20Contribution%20Timeline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
 
 ---
-
-## 🎵 Now Playing & Real-time Data
-
 <div align="center">
 <!-- Random Joke/Quote Generator -->
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500"/>
@@ -152,6 +144,27 @@ const hassanKhan: Developer = {
 <img src="https://img.shields.io/badge/dynamic/json?color=2F81F7&style=for-the-badge&label=LOCAL%20TIME&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=clock" />
 
 </div>
+
+---
+
+<!-- Advanced Metrics -->
+<details>
+<summary>📊 More GitHub Analytics</summary>
+<br>
+
+<!-- Alternative GitHub Stats Cards -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈%20Detailed%20Stats"/>
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Breakdown"/>
+</div>
+
+</details>
+
+</div>
+
 ---
 
 ## 🤝 Connect & Collaborate
@@ -180,6 +193,69 @@ const hassanKhan: Developer = {
 </div>
 
 ---
+### 📈 User Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=hassan689">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan689&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan689">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan689&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=hassan689">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan689&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan689">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan689&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassan689&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassan689&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassan689">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassan689&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan689">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan689&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 💭 Daily Dose of Wisdom
 
@@ -198,7 +274,6 @@ const hassanKhan: Developer = {
 <div align="center">
 
 <!-- Dynamic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
 
 <!-- Visitor Counter with Custom Style -->
 <img src="https://komarev.com/ghpvc/?username=hassan689&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -207,5 +282,6 @@ const hassanKhan: Developer = {
 
 <sub>💖 Built with passion by [Hassan Khan](https://github.com/hassan689)</sub>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
 </div>                
 
