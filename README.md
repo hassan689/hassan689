@@ -152,23 +152,6 @@ const hassanKhan: Developer = {
 <img src="https://img.shields.io/badge/dynamic/json?color=2F81F7&style=for-the-badge&label=LOCAL%20TIME&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=clock" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!-- GitHub Repositories with Dynamic Cards -->
-<a href="https://github.com/hassan689">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hassan689&repo=hassan689&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- Create more cards when you have public repositories -->
-<p><em>🔨 More awesome projects coming soon! Currently working on some exciting stuff behind the scenes.</em></p>
-
-</div>
-
 ---
 
 ## 🤝 Connect & Collaborate
