@@ -77,6 +77,3 @@
   <img src="https://streak-stats.demolab.com?user=hassan689" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&layout=compact" alt="Top Langs" />
-</p>
