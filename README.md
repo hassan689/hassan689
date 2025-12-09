@@ -1,79 +1,297 @@
-<h1 align="center">Hi, I'm Hassan Khan 👋</h1>
+
+<div align="center">
+
+<!-- Dynamic Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=hassan%khan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions;💡+Turning+Ideas+into+Reality;🌟+Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+</a>
+
+<!-- Dynamic Profile Badges -->
 <p align="center">
-  Developer crafting smooth, modern experiences with web, mobile & game technologies.
+  <img src="https://komarev.com/ghpvc/?username=hassan689&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hassan689?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
+  <img src="https://img.shields.io/github/stars/hassan689?label=Stars%20Earned&style=for-the-badge&color=0e75b6" alt="stars" />
 </p>
 
-<p align="center">
-  <a href="https://hassan-portfolio-ui.netlify.app">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/hassan-khan-7b9b66283/">💼 LinkedIn</a> •
-              
-  <a href="mailto:hk.devguy@gmail.com">✉️ Email</a>
-</p>
----
+<!-- Dynamic Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan689/hassan689/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan689/hassan689/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hassan689/hassan689/output/github-contribution-grid-snake.svg">
+</picture>
 
-## 🔹 About Me
-- 🚀 I build applications with a focus on **great user experience**.  
-- 🧰 Technologies I enjoy: **Flutter, React, Dart, Python, C, C++, C#, MSSQL, PostgreSQL**.  
-- 🎯 Currently working on interactive apps and backend integrations.  
-- 📍 Based in Pakistan • open to internships and leadership opportunities.  
+</div>
 
 ---
 
-## 🛠️ Skills
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-### 🌐 Languages & Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+## 🧬 About Me
 
-### 🗄️ Databases
-![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  languages: string[];
+  currentFocus: string;
+  funFact: string;
+  available: boolean;
+}
 
-### 🎨 UI/UX & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?logo=adobecreativecloud&logoColor=white)
+const hassanKhan: Developer = {
+  name: "Hassan Khan",
+  role: "Developer (Web, Mobile & Game Tech)",
+  location: "Pakistan 🇵🇰",
+  languages: ["Dart", "Python", "C++", "C#", "C", "JavaScript", "SQL"],
+  currentFocus: "Building interactive applications with a focus on great user experience.",
+  funFact: "I'm always working to translate smooth design into smooth code.",
+  available: true // Based on being open to internships/leadership
+};
+```
 
-### 🧩 Problem Solving
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)  
-🔗 [My LeetCode Profile](https://leetcode.com/u/Hassankhan78612/)
-
-### ⚙️ Other
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<!-- Dynamic GitHub Metrics -->
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+</div>
 
 ---
-## 💼 Education
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<!-- Animated Skills Section -->
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### 🎨 Frontend Magic
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,html,css,sass,tailwind,bootstrap,js,ts,jquery" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### ⚡ Backend Power  
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi,go,rust,php,laravel,spring,dotnet" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Database & Storage
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,cassandra,elasticsearch,firebase,supabase" />
+</div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### ☁️ Cloud & DevOps
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,nginx,grafana" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🤖 AI/ML & Data
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda,jupyter,r,matlab" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### 🔧 Tools & IDE
+<div align="center">  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,figma,postman,insomnia,notion" />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Dynamic Analytics & Insights
+
+<div align="center">
+  
+<!-- Coding Activity Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=⏰%20Most%20Used%20Languages&langs_count=6" />
+
+<!-- Language Usage Pie Chart -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=💻%20Language%20Distribution" />
+
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan689&custom_title=📈%20Contribution%20Timeline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=hassan689&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+
+<!-- GitHub Metrics (Alternative to Metrics.lecoq.io) -->
+<img src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🏆%20GitHub%20Performance" />
+
+</div>
+
+---
+
+## 🎵 Now Playing & Real-time Data
+
+<div align="center">
+
+<!-- Spotify Now Playing (if connected) -->
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER&unique=true" width="540" />
+
+<!-- Random Joke/Quote Generator -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500"/>
+
+<!-- Current Time Widget -->
+<img src="https://img.shields.io/badge/dynamic/json?color=2F81F7&style=for-the-badge&label=LOCAL%20TIME&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=clock" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- GitHub Repositories with Dynamic Cards -->
+<a href="https://github.com/hassan689">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hassan689&repo=hassan689&theme=tokyonight&hide_border=true" />
+</a>
+
+<!-- Create more cards when you have public repositories -->
+<p><em>🔨 More awesome projects coming soon! Currently working on some exciting stuff behind the scenes.</em></p>
+
+</div>
+
+---
+
+## 📈 Detailed GitHub Analytics
+
+<div align="center">
+
+<!-- Comprehensive GitHub Stats -->
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+<!-- Advanced Metrics -->
 <details>
-  <summary><b>Academic Projects — BS Computer Science</b></summary>
-  <br>
-  • Implemented OS concepts in **Assembly (8086)**.  
-  • Built apps with **React + MSSQL**, **Flutter**, and backend integrations.  
-  • Explored **threads, inter-process communication, and data structures**.  
+<summary>📊 More GitHub Analytics</summary>
+<br>
+
+<!-- Alternative GitHub Stats Cards -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈%20Detailed%20Stats"/>
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Breakdown"/>
+</div>
+
 </details>
 
----
-
-## 📫 Let’s Connect
-- 🌐 Portfolio: [hassan-portfolio-ui.netlify.app](https://hassan-portfolio-ui.netlify.app)  
-- 💼 LinkedIn: [linkedin.com/in/hassan-khan-7b9b66283](https://www.linkedin.com/in/hassan-khan-7b9b66283/)  
-- ✉️ Email: [hk.devguy@gmail.com](mailto:hk.devguy@gmail.com)  
-- 🔗 LeetCode: [HassanKhan78612](https://leetcode.com/u/Hassankhan78612/)  
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hassan689&style=flat" alt="Profile Views" />
-</p>
+## 🤝 Connect & Collaborate
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hassan689" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<!-- 3D Social Icons -->
+<a href="https://linkedin.com/in/shahzaib-rehman" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C&labelColor=1e77b5" alt="LinkedIn"/>
+</a>
+<a href="mailto:your.email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C&labelColor=D14836" alt="Gmail"/>
+</a>
+<a href="https://twitter.com/your-handle" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C&labelColor=00acee" alt="Twitter"/>
+</a>
+<a href="https://your-portfolio.com" target="_blank">
+<img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&color=071A2C&labelColor=FF5722" alt="Portfolio"/>
+</a>
+<a href="https://dev.to/your-handle" target="_blank">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C&labelColor=0A0A0A" alt="Dev.to"/>
+</a>
+
+<!-- Dynamic Contact Form -->
+<br><br>
+<img src="https://img.shields.io/badge/Open%20for-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=for-the-badge&logo=upwork&logoColor=white" />
+
+</div>
+
+---
+
+## 💭 Daily Dose of Wisdom
+
+<div align="center">
+
+<!-- Random Quote with Animation -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
+
+<!-- Motivational Widget -->
+<img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=motivational" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Dynamic Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
+
+<!-- Visitor Counter with Custom Style -->
+<img src="https://komarev.com/ghpvc/?username=hassan689&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+### 🌟 "In the world of code, every bug is just an undocumented feature waiting to be discovered!" 
+
+<sub>💖 Built with passion by [Shahzaib Rehman](https://github.com/hassan689)</sub>
+
+</div>
+████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
+╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
+   ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
+   ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
+   ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
+                                                                                   
+██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗     ███╗   ███╗██╗   ██╗    
+██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝     ████╗ ████║╚██╗ ██╔╝    
+██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗    ██╔████╔██║ ╚████╔╝     
+╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║    ██║╚██╔╝██║  ╚██╔╝      
+ ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝    ██║ ╚═╝ ██║   ██║       
+  ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝     ╚═╝   ╚═╝       
+                                                                                   
+██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗██╗                          
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝██║                          
+██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  ██║                          
+██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  ╚═╝                          
+██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗██╗                          
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝                          
 
