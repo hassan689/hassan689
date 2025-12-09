@@ -142,20 +142,6 @@ const hassanKhan: Developer = {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hassan689&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-
-<!-- GitHub Metrics (Alternative to Metrics.lecoq.io) -->
-<img src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🏆%20GitHub%20Performance" />
-
-</div>
-
----
-
 ## 🎵 Now Playing & Real-time Data
 
 <div align="center">
