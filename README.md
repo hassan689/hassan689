@@ -9,11 +9,6 @@
               
   <a href="mailto:hk.devguy@gmail.com">✉️ Email</a>
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassan-khan-7b9b66283/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hassan%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 ---
 
 ## 🔹 About Me
