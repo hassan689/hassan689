@@ -6,11 +6,11 @@
 <p align="center">
   <a href="https://hassan-portfolio-ui.netlify.app">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/hassan-khan-7b9b66283/">💼 LinkedIn</a> •
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hassan-khan-7b9b66283" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/hassan-khan-7b9b66283?trk=profile-badge">Hassan Khan</a></div>
               
   <a href="mailto:hk.devguy@gmail.com">✉️ Email</a>
 </p>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hassan-khan-7b9b66283" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/hassan-khan-7b9b66283?trk=profile-badge">Hassan Khan</a></div>
+              
 ---
 
 ## 🔹 About Me
