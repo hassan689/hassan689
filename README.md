@@ -2,11 +2,14 @@
 <div align="center">
 
 <!-- Dynamic Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=hassan%khan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Developer%20Student%20Learner&descAlignY=55&descSize=18"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions;💡+Turning+Ideas+into+Reality;🌟+Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions;💡+Turning+Ideas+into+Reality;" alt="Typing SVG" />
 </a>
 
 <!-- Dynamic Profile Badges -->
@@ -16,12 +19,7 @@
   <img src="https://img.shields.io/github/stars/hassan689?label=Stars%20Earned&style=for-the-badge&color=0e75b6" alt="stars" />
 </p>
 
-<!-- Dynamic Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassan689/hassan689/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassan689/hassan689/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hassan689/hassan689/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 </div>
 
@@ -60,66 +58,9 @@ const hassanKhan: Developer = {
 </div>
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
 <div align="center">
-
-<!-- Animated Skills Section -->
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### 🎨 Frontend Magic
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
-
-</td>
-<td valign="top" width="33%">
-
-### ⚡ Backend Power  
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=python,nodejs,express,django,flask,fastapi" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-### 🗄️ Database & Storage
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase,supabase" />
-</div>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-### ☁️ Cloud & DevOps
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,nginx,grafana" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-</td>
-<td valign="top" width="33%">
-
-### 🔧 Tools & IDE
-<div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,figma,postman,insomnia,notion" />
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 Dynamic Analytics & Insights
 
 <div align="center">
@@ -135,64 +76,12 @@ const hassanKhan: Developer = {
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan689&custom_title=📈%20Contribution%20Timeline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
 
----
-<div align="center">
-<!-- Random Joke/Quote Generator -->
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" width="500"/>
 
-<!-- Current Time Widget -->
-<img src="https://img.shields.io/badge/dynamic/json?color=2F81F7&style=for-the-badge&label=LOCAL%20TIME&query=formatted&url=http://worldtimeapi.org/api/timezone/Asia/Karachi&logo=clock" />
 
 </div>
 
----
 
-<!-- Advanced Metrics -->
-<details>
-<summary>📊 More GitHub Analytics</summary>
-<br>
 
-<!-- Alternative GitHub Stats Cards -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=📈%20Detailed%20Stats"/>
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&custom_title=💻%20Language%20Breakdown"/>
-</div>
-
-</details>
-
-</div>
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-<!-- 3D Social Icons -->
-<a href="mailto:your.email@example.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C&labelColor=D14836" alt="Gmail"/>
-</a>
-<a href="https://twitter.com/your-handle" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C&labelColor=00acee" alt="Twitter"/>
-</a>
-<a href="https://your-portfolio.com" target="_blank">
-<img src="https://img.shields.io/badge/portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&color=071A2C&labelColor=FF5722" alt="Portfolio"/>
-</a>
-<a href="https://dev.to/your-handle" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&color=071A2C&labelColor=0A0A0A" alt="Dev.to"/>
-</a>
-
-<!-- Dynamic Contact Form -->
-<br><br>
-<img src="https://img.shields.io/badge/Open%20for-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" />
-<img src="https://img.shields.io/badge/Available%20for-Freelance-blue?style=for-the-badge&logo=upwork&logoColor=white" />
-
-</div>
-
----
 ### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -257,19 +146,7 @@ const hassanKhan: Developer = {
   </tbody>
 </table>
 
-## 💭 Daily Dose of Wisdom
 
-<div align="center">
-
-<!-- Random Quote with Animation -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
-
-<!-- Motivational Widget -->
-<img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&category=motivational" />
-
-</div>
-
----
 
 <div align="center">
 
