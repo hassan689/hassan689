@@ -9,7 +9,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions;💡+Turning+Ideas+into+Reality;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=b10ee3&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Welcome+to+my+Digital+Realm;🚀+Building+Tomorrow's+Solutions" alt="Typing SVG" />
 </a>
 
 <!-- Dynamic Profile Badges -->
