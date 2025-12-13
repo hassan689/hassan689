@@ -83,37 +83,12 @@ const hassanKhan: Developer = {
 
 
 
-### 📈 User Statistics
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=hassan689">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=hassan689&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan689">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassan689&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=hassan689">
-          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=hassan689&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
+  
+
+
 </table>
 
 <table>
@@ -147,6 +122,14 @@ const hassanKhan: Developer = {
   </tbody>
 </table>
 
+<p align="center">
+  <img
+    alt="Coding"
+    width="500"
+    height="500"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5NmRkeG91YWptc2N0M2dhb2djcnJlcXB1Nm5zZnM0M3BseGkydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"
+  />
+</p>
 
 
 <div align="center">
