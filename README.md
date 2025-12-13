@@ -120,7 +120,7 @@ const hassanKhan: Developer = {
   <img
     alt="Coding"
     width="500"
-    height="500"
+    height="350"
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh5NmRkeG91YWptc2N0M2dhb2djcnJlcXB1Nm5zZnM0M3BseGkydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"
   />
 </p>
