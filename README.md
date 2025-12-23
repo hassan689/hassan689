@@ -54,8 +54,8 @@ const hassanKhan: Developer = {
 
 <!-- Dynamic GitHub Metrics -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassan689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hassan689&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
 </div>
 
 ---
@@ -64,15 +64,29 @@ const hassanKhan: Developer = {
 </div>
 ## 📊 Dynamic Analytics & Insights
 
-<div align="center">
-  
-<!-- Coding Activity Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=⏰%20Most%20Used%20Languages&langs_count=6" />
-
-<!-- Language Usage Pie Chart -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=💻%20Language%20Distribution" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=⏰%20Most%20Used%20Languages&langs_count=6"
+        width="320"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan689&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=💻%20Language%20Distribution"
+        width="320"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://leetcard.jacoblin.cool/Hassankhan78612?theme=dark&font=Karma&ext=heatmap"
+        width="320"
+        alt="LeetCode Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan689&custom_title=📈%20Contribution%20Timeline&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%"/>
@@ -84,30 +98,6 @@ const hassanKhan: Developer = {
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan689">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassan689&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassan689&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassan689&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
-<div align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/Hassankhan78612?theme=dark&font=Karma&ext=heatmap"
-    alt="LeetCode Stats"
-    width="500"
-  />
-</div>
 
 <p align="center">
   <img
