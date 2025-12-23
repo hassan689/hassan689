@@ -100,21 +100,14 @@ const hassanKhan: Developer = {
       </th>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassan689">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassan689&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan689">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hassan689&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
 </table>
+<div align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/Hassankhan78612?theme=dark&font=Karma&ext=heatmap"
+    alt="LeetCode Stats"
+    width="500"
+  />
+</div>
 
 <p align="center">
   <img
@@ -126,7 +119,9 @@ const hassanKhan: Developer = {
 </p>
 
 
+
 <div align="center">
+
 
 <!-- Dynamic Footer -->
 
